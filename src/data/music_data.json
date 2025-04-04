@@ -2,9 +2,9 @@
     "courses": [
       {
         "id": 1,
-        "title": "Guitar Fundamentals",
+        "title": "Music Theory 101",
         "slug": "guitar-fundamentals",
-        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "description": "Understand the fundamentals of music theory to enhance your musical skills.",
         "price": 99.99,
         "instructor": "John Doe",
         "isFeatured": true,
@@ -22,9 +22,9 @@
       },
       {
         "id": 3,
-        "title": "Drumming Basics",
+        "title": "Music Theory 101",
         "slug": "drumming-basics",
-        "description": "Get started with drumming techniques and rhythms in this exciting course.",
+        "description": "Understand the fundamentals of music theory to enhance your musical skills.",
         "price": 79.99,
         "instructor": "Mike Johnson",
         "isFeatured": true,
@@ -42,6 +42,36 @@
       },
       {
         "id": 5,
+        "title": "Music Theory 101",
+        "slug": "music-theory-101",
+        "description": "Understand the fundamentals of music theory to enhance your musical skills.",
+        "price": 69.99,
+        "instructor": "Robert Wilson",
+        "isFeatured": true,
+        "image": "/courses/music-theory.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Music Theory 101",
+        "slug": "music-theory-101",
+        "description": "Understand the fundamentals of music theory to enhance your musical skills.",
+        "price": 69.99,
+        "instructor": "Robert Wilson",
+        "isFeatured": true,
+        "image": "/courses/music-theory.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Music Theory 101",
+        "slug": "music-theory-101",
+        "description": "Understand the fundamentals of music theory to enhance your musical skills.",
+        "price": 69.99,
+        "instructor": "Robert Wilson",
+        "isFeatured": true,
+        "image": "/courses/music-theory.jpg"
+      },
+      {
+        "id": 8,
         "title": "Music Theory 101",
         "slug": "music-theory-101",
         "description": "Understand the fundamentals of music theory to enhance your musical skills.",
