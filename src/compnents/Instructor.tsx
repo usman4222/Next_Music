@@ -57,7 +57,7 @@ const Instructor = () => {
           Meet our Instructors
         </p>
         <p className="text-base md:text-lg mt-4 text-white font-normal inter-var text-center">
-          Leverage the power of canvas to create a beautiful section
+          Leverage the power of canvas to create a beautiful Portion
         </p>
         <div className="flex flex-row items-center justify-center my-10 w-full">
           <AnimatedTooltip items={people} />
