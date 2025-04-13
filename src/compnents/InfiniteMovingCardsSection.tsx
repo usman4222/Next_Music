@@ -20,7 +20,7 @@ const testimonials = [
   {
     quote: "All that we see or seem is but a dream within a dream.",
     name: "Edgar Allan Poe",
-    title: "A Dream Within a Dream",
+    title: "Prejudice",
   },
   {
     quote:
